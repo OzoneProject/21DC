@@ -10,3 +10,4 @@ Solutions to 21DC problems
 |D2P3|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Java](./Day2/kidsWithGreatestCandies.java)|Easy|
 |D3P1|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [Java](./Day3/maxPower.java)|Easy|
 |D3P2|[Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Java](./Day3/hasGroupsSizeX.java)|Easy|
+|D3P3|[Unique no. of occurences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Java](./Day3/uniqueOccurrences.java)|Easy|
