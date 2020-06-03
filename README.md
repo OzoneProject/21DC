@@ -8,3 +8,4 @@ Solutions to 21DC problems
 |D2P1|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Java](./Day2/thirdMax.java)|Easy|
 |D2P2|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[C++](./Day2/islandPerimeter.cpp)|Easy|
 |D2P3|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Java](./Day2/kidsWithGreatestCandies.java)|Easy|
+|D3P1|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [Java](./Day3/maxPower.java)|Easy|
