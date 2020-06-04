@@ -12,5 +12,5 @@ Solutions to 21DC problems
 |D3P2|[Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Java](./Day3/hasGroupsSizeX.java)|Easy|
 |D3P3|[Unique no. of occurences](https://leetcode.com/problems/unique-number-of-occurrences/) | [Java](./Day3/uniqueOccurrences.java)|Easy|
 |D4P1|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[C++](./Day4/minCostClimbingStairs.cpp)|Easy|
-|D4P2|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Java](./Day4balancedStrings.java)|Easy|
+|D4P2|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Java](./Day4/balancedStrings.java)|Easy|
 |D4P3|[Best time to buy and sell stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./Day4/maxProfit.java)|Easy|
