@@ -14,3 +14,4 @@ Solutions to 21DC problems
 |D4P1|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[C++](./Day4/minCostClimbingStairs.cpp)|Easy|
 |D4P2|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Java](./Day4/balancedStrings.java)|Easy|
 |D4P3|[Best time to buy and sell stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./Day4/maxProfit.java)|Easy|
+|D5P1|[House robber](https://leetcode.com/problems/house-robber/) | [Java](./Day5/rob.java)|Easy|
