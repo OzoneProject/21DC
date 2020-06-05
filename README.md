@@ -16,3 +16,4 @@ Solutions to 21DC problems
 |D4P3|[Best time to buy and sell stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./Day4/maxProfit.java)|Easy|
 |D5P1|[House robber](https://leetcode.com/problems/house-robber/) | [Java](./Day5/rob.java)|Easy|
 |D5P2|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[C++](./Day5/backspaceStringCompare.cpp)|Easy|
+|D5P3|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./Day5/plusOne.java)|Easy|
