@@ -19,3 +19,4 @@ Solutions to 21DC problems
 |D5P3|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./Day5/plusOne.java)|Easy|
 |D6P1|[Range sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Java](./Day6/rangeSumBST.java)|Easy|
 |D6P2|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C++ (2 Pointers)](./Day6/linkedListCycle_two_pointers.cpp)<br>[C++ (Set)](./Day6/linkedListCycle_set.cpp)|Easy|
+|D6P3|[Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)|[Java](./Day6/buildArray.java)|Easy|
