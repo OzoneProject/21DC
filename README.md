@@ -17,3 +17,4 @@ Solutions to 21DC problems
 |D5P1|[House robber](https://leetcode.com/problems/house-robber/) | [Java](./Day5/rob.java)|Easy|
 |D5P2|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[C++](./Day5/backspaceStringCompare.cpp)|Easy|
 |D5P3|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./Day5/plusOne.java)|Easy|
+|D6P2|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C++ (2 Pointers)](./Day6/linkedListCycle_two_pointers.cpp)<br>[C++ (Set)](./Day6/linkedListCycle_set.cpp)|Easy|
