@@ -21,3 +21,4 @@ Solutions to 21DC problems
 |D6P2|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C++ (2 Pointers)](./Day6/linkedListCycle_two_pointers.cpp)<br>[C++ (Set)](./Day6/linkedListCycle_set.cpp)|Easy|
 |D6P3|[Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)|[Java](./Day6/buildArray.java)|Easy|
 |D7P1|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./Day7/isValid.java)|Easy|
+|D7P2|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[C++](./Day7/assignCookies.cpp)|Easy|
