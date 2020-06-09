@@ -26,4 +26,5 @@ Solutions to 21DC problems
 |D8P1|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|[Java](./Day8/numMatchingSubseq.java)|Medium|
 |D8P2|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./Day8/uniquePaths.cpp)|Medium|
 |D8P3|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[Java](./Day8/longestUnivaluePath.java)|Easy|
+|D9P1|[Simplified Fractions](https://leetcode.com/problems/simplified-fractions/)|[Java](./Day9/simplifiedFractions.java)|Medium|
 |D9P2|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[C++](./Day9/productArrayExceptSelf.cpp)|Medium|
