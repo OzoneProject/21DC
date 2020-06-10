@@ -29,3 +29,4 @@ Solutions to 21DC problems
 |D9P1|[Simplified Fractions](https://leetcode.com/problems/simplified-fractions/)|[Java](./Day9/simplifiedFractions.java)|Medium|
 |D9P2|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[C++](./Day9/productArrayExceptSelf.cpp)|Medium|
 |D9P3|[remove K digits](https://leetcode.com/problems/remove-k-digits/)|[Java](./Day9/removeKdigits.java)|Medium|
+|D10P2|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Java](./Day10/intersect.java)|Easy|
