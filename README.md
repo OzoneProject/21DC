@@ -33,4 +33,5 @@ Solutions to 21DC problems
 |D10P2|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Java](./Day10/intersect.java)|Easy|
 |D10P3|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Java](./Day10/equalSubsetSum.java)|Medium|
 |D11P1|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[C++](./Day11/longestPalindrome.cpp)|Medium|
+|D11P2|[Buddy strings](https://leetcode.com/problems/buddy-strings/)|[C++](./Day11/buddyStrings.cpp)<br>[Java](./Day11/buddyStrings.java)|Medium|
 |D11P3|[Design browser history](https://leetcode.com/problems/design-browser-history/)|[C++](./Day11/BrowserHistory.cpp)<br>[Java](./Day11/BrowserHistory.java)|Medium|
