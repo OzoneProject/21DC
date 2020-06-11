@@ -32,3 +32,4 @@ Solutions to 21DC problems
 |D10P1|[Maximum Area of a Piece of Cake](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|[C++](./Day10/maximumArea.cpp)|Medium|
 |D10P2|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Java](./Day10/intersect.java)|Easy|
 |D10P3|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Java](./Day10/equalSubsetSum.java)|Medium|
+|D11P1|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[C++](./Day11/longestPalindrome.cpp)|Easy|
