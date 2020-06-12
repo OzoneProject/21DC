@@ -40,3 +40,4 @@ WhatsApp Discussion group- https://bit.do/OzoneWA <br>
 |D11P2|[Buddy strings](https://leetcode.com/problems/buddy-strings/)|[C++](./Day11/buddyStrings.cpp)<br>[Java](./Day11/buddyStrings.java)|Easy|
 |D11P3|[Design browser history](https://leetcode.com/problems/design-browser-history/)|[C++](./Day11/BrowserHistory.cpp)<br>[Java](./Day11/BrowserHistory.java)|Medium|
 |D12P1|[The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/)|[C++](./Day12/getStrongest.cpp)<br>[Java](./Day12/getStrongest.java)|Medium|
+|D12P2|[Arithematic Slices](https://leetcode.com/problems/arithmetic-slices/)|[C++](./Day12/arithematicSlices.cpp)<br>[Java](./Day12/arithematicSlices.java)|Medium|
