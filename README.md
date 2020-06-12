@@ -1,8 +1,12 @@
 Solutions to 21DC problems
 
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
-|D1P1|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Java](./Day1/numberOfSteps.java)|Easy|
+Video Solutions- https://bit.do/OzoneProject <br>
+Telegram Channel- https://t.me/codewithozone <br>
+WhatsApp Discussion group- https://bit.do/OzoneWA <br>
+
+| # | Title | Code | Difficulty |
+|---| ----- | ---- | ---------- |
+|D1P1|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Java](./Day1/numberOfSteps.java)|Easy| 
 |D1P2|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [Java](./Day1/checkPossibility.java)|Easy|
 |D1P3|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[C++](./Day1/hammingDistance.cpp)|Easy|
 |D2P1|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[Java](./Day2/thirdMax.java)|Easy|
@@ -33,5 +37,7 @@ Solutions to 21DC problems
 |D10P2|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Java](./Day10/intersect.java)|Easy|
 |D10P3|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Java](./Day10/equalSubsetSum.java)|Medium|
 |D11P1|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[C++](./Day11/longestPalindrome.cpp)<br>[Java](./Day11/longestPalindrome.java)|Medium|
-|D11P2|[Buddy strings](https://leetcode.com/problems/buddy-strings/)|[C++](./Day11/buddyStrings.cpp)<br>[Java](./Day11/buddyStrings.java)|Medium|
+|D11P2|[Buddy strings](https://leetcode.com/problems/buddy-strings/)|[C++](./Day11/buddyStrings.cpp)<br>[Java](./Day11/buddyStrings.java)|Easy|
 |D11P3|[Design browser history](https://leetcode.com/problems/design-browser-history/)|[C++](./Day11/BrowserHistory.cpp)<br>[Java](./Day11/BrowserHistory.java)|Medium|
+|D12P1|[The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/)|[C++](./Day12/getStrongest.cpp)<br>[Java](./Day12/getStrongest.java)|Medium|
+|D12P3|[Decode String](https://leetcode.com/problems/decode-string/)|[C++](./Day12/decodeString.cpp)<br>[Java](./Day12/decodeString.java)|Medium|
