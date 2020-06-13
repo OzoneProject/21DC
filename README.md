@@ -42,4 +42,5 @@ WhatsApp Discussion group- https://bit.do/OzoneWA <br>
 |D12P1|[The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/)|[C++](./Day12/getStrongest.cpp)<br>[Java](./Day12/getStrongest.java)|Medium|
 |D12P2|[Arithematic Slices](https://leetcode.com/problems/arithmetic-slices/)|[C++](./Day12/arithematicSlices.cpp)<br>[Java](./Day12/arithematicSlices.java)|Medium|
 |D12P3|[Decode String](https://leetcode.com/problems/decode-string/)|[C++](./Day12/decodeString.cpp)<br>[Java](./Day12/decodeString.java)|Medium|
+|D13P1|[pseudo palindromic paths](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)|[C++](./Day13/pseudoPalindromicPaths.cpp)<br>[Java](./Day13/pseudoPalindromicPaths.java)|Medium|
 |D13P3|[Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/)|[C++](./Day13/numTimesAllBlue.cpp)<br>[Java](./Day13/numTimesAllBlue.java)|Medium|
