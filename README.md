@@ -43,4 +43,5 @@ WhatsApp Discussion group- https://bit.do/OzoneWA <br>
 |D12P2|[Arithematic Slices](https://leetcode.com/problems/arithmetic-slices/)|[C++](./Day12/arithematicSlices.cpp)<br>[Java](./Day12/arithematicSlices.java)|Medium|
 |D12P3|[Decode String](https://leetcode.com/problems/decode-string/)|[C++](./Day12/decodeString.cpp)<br>[Java](./Day12/decodeString.java)|Medium|
 |D13P1|[pseudo palindromic paths](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)|[C++](./Day13/pseudoPalindromicPaths.cpp)<br>[Java](./Day13/pseudoPalindromicPaths.java)|Medium|
+|D13P2|[Integer Break](https://leetcode.com/problems/integer-break/)|[C++](./Day13/integerBreak.cpp)<br>[Java](./Day13/integerBreak.java)|Medium|
 |D13P3|[Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/)|[C++](./Day13/numTimesAllBlue.cpp)<br>[Java](./Day13/numTimesAllBlue.java)|Medium|
