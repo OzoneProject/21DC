@@ -45,3 +45,4 @@ WhatsApp Discussion group- https://bit.do/OzoneWA <br>
 |D13P1|[pseudo palindromic paths](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)|[C++](./Day13/pseudoPalindromicPaths.cpp)<br>[Java](./Day13/pseudoPalindromicPaths.java)|Medium|
 |D13P2|[Integer Break](https://leetcode.com/problems/integer-break/)|[C++](./Day13/integerBreak.cpp)<br>[Java](./Day13/integerBreak.java)|Medium|
 |D13P3|[Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/)|[C++](./Day13/numTimesAllBlue.cpp)<br>[Java](./Day13/numTimesAllBlue.java)|Medium|
+|D14P1|[Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)|[C++](./Day14/minReorder.cpp)<br>[Java](./Day14/minReorder.java)|Medium|
