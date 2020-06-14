@@ -47,3 +47,4 @@ WhatsApp Discussion group- https://bit.do/OzoneWA <br>
 |D13P3|[Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/)|[C++](./Day13/numTimesAllBlue.cpp)<br>[Java](./Day13/numTimesAllBlue.java)|Medium|
 |D14P1|[Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)|[C++](./Day14/minReorder.cpp)<br>[Java](./Day14/minReorder.java)|Medium|
 |D14P2|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[C++](./Day14/pruneTree.cpp)<br>[Java](./Day14/pruneTree.java)|Medium|
+|D14P3|[get Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[C++](./Day14/getMaximumGold.cpp)<br>[Java](./Day14/getMaximumGold.java)|Medium|
