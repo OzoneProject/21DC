@@ -49,4 +49,5 @@ WhatsApp Discussion group- https://bit.do/OzoneWA <br>
 |D14P2|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[C++](./Day14/pruneTree.cpp)<br>[Java](./Day14/pruneTree.java)|Medium|
 |D14P3|[get Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[C++](./Day14/getMaximumGold.cpp)<br>[Java](./Day14/getMaximumGold.java)|Medium|
 |D15P1|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[C++](./Day15/RandomizedSet.cpp)<br>[Java](./Day15/RandomizedSet.java)|Medium|
+|D15P2|[Max Sum Div Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[C++](./Day15/maxSumDivThree.cpp)<br>[Java](./Day15/maxSumDivThree.java)|Medium|
 |D15P3|[Word Subsets](https://leetcode.com/problems/word-subsets/)|[C++](./Day15/wordSubsets.cpp)<br>[Java](./Day15/wordSubsets.java)|Medium|
