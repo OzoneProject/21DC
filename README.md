@@ -45,3 +45,11 @@ WhatsApp Discussion group- https://bit.do/OzoneWA <br>
 |D13P1|[pseudo palindromic paths](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)|[C++](./Day13/pseudoPalindromicPaths.cpp)<br>[Java](./Day13/pseudoPalindromicPaths.java)|Medium|
 |D13P2|[Integer Break](https://leetcode.com/problems/integer-break/)|[C++](./Day13/integerBreak.cpp)<br>[Java](./Day13/integerBreak.java)|Medium|
 |D13P3|[Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/)|[C++](./Day13/numTimesAllBlue.cpp)<br>[Java](./Day13/numTimesAllBlue.java)|Medium|
+|D14P1|[Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)|[C++](./Day14/minReorder.cpp)<br>[Java](./Day14/minReorder.java)|Medium|
+|D14P2|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)|[C++](./Day14/pruneTree.cpp)<br>[Java](./Day14/pruneTree.java)|Medium|
+|D14P3|[get Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)|[C++](./Day14/getMaximumGold.cpp)<br>[Java](./Day14/getMaximumGold.java)|Medium|
+|D15P1|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[C++](./Day15/RandomizedSet.cpp)<br>[Java](./Day15/RandomizedSet.java)|Medium|
+|D15P2|[Max Sum Div Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[C++](./Day15/maxSumDivThree.cpp)<br>[Java](./Day15/maxSumDivThree.java)|Medium|
+|D15P3|[Word Subsets](https://leetcode.com/problems/word-subsets/)|[C++](./Day15/wordSubsets.cpp)<br>[Java](./Day15/wordSubsets.java)|Medium|
+|D16P2|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[C++](./Day16/kokoEatingBananas.cpp)<br>[Java](./Day15/kokoEatingBananas.java)|Medium|
+|D16P3|[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[C++](./Day16/makeNetworkConnected.cpp)<br>[Java](./Day16/makeNetworkConnected.java)|Medium|
