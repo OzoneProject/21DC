@@ -51,5 +51,5 @@ WhatsApp Discussion group- https://bit.do/OzoneWA <br>
 |D15P1|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[C++](./Day15/RandomizedSet.cpp)<br>[Java](./Day15/RandomizedSet.java)|Medium|
 |D15P2|[Max Sum Div Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)|[C++](./Day15/maxSumDivThree.cpp)<br>[Java](./Day15/maxSumDivThree.java)|Medium|
 |D15P3|[Word Subsets](https://leetcode.com/problems/word-subsets/)|[C++](./Day15/wordSubsets.cpp)<br>[Java](./Day15/wordSubsets.java)|Medium|
-|D16P2|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[C++](./Day16/kokoEatingBananas.cpp)<br>[Java](./Day15/kokoEatingBananas.java)|Medium|
+|D16P2|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[C++](./Day16/kokoEatingBananas.cpp)<br>[Java](./Day16/kokoEatingBananas.java)|Medium|
 |D16P3|[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[C++](./Day16/makeNetworkConnected.cpp)<br>[Java](./Day16/makeNetworkConnected.java)|Medium|
