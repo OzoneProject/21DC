@@ -54,4 +54,5 @@ WhatsApp Discussion group- https://bit.do/OzoneWA <br>
 |D16P1|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[C++](./Day16/kokoEatingBananas.cpp)<br>[Java](./Day16/kokoEatingBananas.java)|Medium|
 |D16P2|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[C++](./Day16/isMatch.cpp)<br>[Java](./Day16/isMatch.java)|Medium|
 |D16P3|[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[C++](./Day16/makeNetworkConnected.cpp)<br>[Java](./Day16/makeNetworkConnected.java)|Medium|
+|D17P1|[Vowel spellchecker](https://leetcode.com/problems/vowel-spellchecker/)|[Java](./Day17/spellchecker.java)|Medium|
 |D17P2|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[C++](./Day17/rottingOranges.cpp)<br>[Java](./Day17/rottingOranges.java)|Medium|
