@@ -56,3 +56,4 @@ WhatsApp Discussion group- https://bit.do/OzoneWA <br>
 |D16P3|[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)|[C++](./Day16/makeNetworkConnected.cpp)<br>[Java](./Day16/makeNetworkConnected.java)|Medium|
 |D17P1|[Vowel spellchecker](https://leetcode.com/problems/vowel-spellchecker/)|[Java](./Day17/spellchecker.java)|Medium|
 |D17P2|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[C++](./Day17/rottingOranges.cpp)<br>[Java](./Day17/rottingOranges.java)|Medium|
+|D17P3|[Predict the winner](https://leetcode.com/problems/predict-the-winner/)|[Java](./Day17/PredictTheWinner.java)|Medium|
