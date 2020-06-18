@@ -58,3 +58,4 @@ WhatsApp Discussion group- https://bit.do/OzoneWA <br>
 |D17P2|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[C++](./Day17/rottingOranges.cpp)<br>[Java](./Day17/rottingOranges.java)|Medium|
 |D17P3|[Predict the winner](https://leetcode.com/problems/predict-the-winner/)|[Java](./Day17/PredictTheWinner.java)|Medium|
 |D18P2|[Delete and earn](https://leetcode.com/problems/delete-and-earn/)|[C++](./Day18/deleteAndEarn.cpp)<br>[Java](./Day18/deleteAndEarn.java)|Medium|
+|D18P3|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[C++](./Day18/findEventualSafeStates.cpp)<br>[Java](./Day18/findEventualSafeStates.java)|Medium|
