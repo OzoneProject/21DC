@@ -58,3 +58,4 @@ WhatsApp Discussion group- https://bit.do/OzoneWA <br>
 |D17P2|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|[C++](./Day17/rottingOranges.cpp)<br>[Java](./Day17/rottingOranges.java)|Medium|
 |D17P3|[Predict the winner](https://leetcode.com/problems/predict-the-winner/)|[Java](./Day17/PredictTheWinner.java)|Medium|
 |D18P1|[Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)|[C++](./Day18/minimumDeleteSum.cpp)<br>[Java](./Day18/minimumDeleteSum.java)|Medium|
+|D18P2|[Delete and earn](https://leetcode.com/problems/delete-and-earn/)|[C++](./Day18/deleteAndEarn.cpp)<br>[Java](./Day18/deleteAndEarn.java)|Medium|
