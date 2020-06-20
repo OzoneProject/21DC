@@ -65,3 +65,4 @@ WhatsApp Discussion group- https://bit.do/OzoneWA <br>
 |D19P3|[Push Dominoes](https://leetcode.com/problems/push-dominoes/)|[C++](./Day19/pushDominoes.cpp)<br>[Java](./Day19/pushDominoes.java)|Medium|
 |D20P1|[Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)|[C++](./Day20/minimumDeleteSum.cpp)<br>[Java](./Day20/minimumDeleteSum.java)|Medium|
 |D20P2|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[C++](./Day20/distinctSubsequences.cpp)<br>[Java](./Day20/distinctSubsequences.java)|Hard|
+|D20P3|[Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/)|[C++](./Day20/fillingBookcaseShelves.cpp)<br>[Java](./Day20/fillingBookcaseShelves.java)|Medium|
