@@ -68,3 +68,4 @@ WhatsApp Discussion group- https://bit.do/OzoneWA <br>
 |D20P3|[Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/)|[C++](./Day20/fillingBookcaseShelves.cpp)<br>[Java](./Day20/fillingBookcaseShelves.java)|Medium|
 |D21P1|[Path Sum](https://leetcode.com/problems/path-sum-ii/)|[C++](./Day21/pathSum.cpp)<br>[Java](./Day21/pathSum.java)|Medium|
 |D21P2|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|[C++](./Day21/permutationSequence.cpp)<br>[Java](./Day21/permutationSequence.java)|Medium|
+|D21P3|[Split Array Same Average](https://leetcode.com/problems/split-array-with-same-average/)|[C++](./Day21/splitArraySameAverage.cpp)|Hard|
