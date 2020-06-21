@@ -66,3 +66,4 @@ WhatsApp Discussion group- https://bit.do/OzoneWA <br>
 |D20P1|[Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)|[C++](./Day20/minimumDeleteSum.cpp)<br>[Java](./Day20/minimumDeleteSum.java)|Medium|
 |D20P2|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)|[C++](./Day20/distinctSubsequences.cpp)<br>[Java](./Day20/distinctSubsequences.java)|Hard|
 |D20P3|[Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/)|[C++](./Day20/fillingBookcaseShelves.cpp)<br>[Java](./Day20/fillingBookcaseShelves.java)|Medium|
+|D21P2|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)|[C++](./Day21/permutationSequence.cpp)<br>[Java](./Day21/permutationSequence.java)|Medium|
