@@ -18,9 +18,9 @@ WhatsApp Discussion group- https://bit.do/OzoneWA <br>
 |D4P1|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[C++](./Day4/minCostClimbingStairs.cpp)<br>[Python](./Day4/minimumCostClimbingStairs.py)|Easy|
 |D4P2|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Java](./Day4/balancedStrings.java)<br>[Python](./Day4/splitStringInBalancedStrings.py)|Easy|
 |D4P3|[Best time to buy and sell stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](./Day4/maxProfit.java)<br>[Python](./Day4/bestTimeToBuyAndSellStocks.py)|Easy|
-|D5P1|[House robber](https://leetcode.com/problems/house-robber/) | [Java](./Day5/rob.java)|Easy|
-|D5P2|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[C++](./Day5/backspaceStringCompare.cpp)|Easy|
-|D5P3|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./Day5/plusOne.java)|Easy|
+|D5P1|[House robber](https://leetcode.com/problems/house-robber/) | [Java](./Day5/rob.java)<br>[Python](./Day5/houseRobber.py)|Easy|
+|D5P2|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[C++](./Day5/backspaceStringCompare.cpp)<br>[Python](./Day5/backspaceStringCompare.py)|Easy|
+|D5P3|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./Day5/plusOne.java)<br>[Python](./Day5/PlusOne.py)|Easy|
 |D6P1|[Range sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Java](./Day6/rangeSumBST.java)|Easy|
 |D6P2|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C++ (2 Pointers)](./Day6/linkedListCycle_two_pointers.cpp)<br>[C++ (Set)](./Day6/linkedListCycle_set.cpp)|Easy|
 |D6P3|[Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)|[Java](./Day6/buildArray.java)|Easy|
