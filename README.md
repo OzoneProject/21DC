@@ -21,12 +21,12 @@ WhatsApp Discussion group- https://bit.do/OzoneWA <br>
 |D5P1|[House robber](https://leetcode.com/problems/house-robber/) | [Java](./Day5/rob.java)<br>[Python](./Day5/houseRobber.py)|Easy|
 |D5P2|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[C++](./Day5/backspaceStringCompare.cpp)<br>[Python](./Day5/backspaceStringCompare.py)|Easy|
 |D5P3|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./Day5/plusOne.java)<br>[Python](./Day5/PlusOne.py)|Easy|
-|D6P1|[Range sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Java](./Day6/rangeSumBST.java)|Easy|
-|D6P2|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C++ (2 Pointers)](./Day6/linkedListCycle_two_pointers.cpp)<br>[C++ (Set)](./Day6/linkedListCycle_set.cpp)|Easy|
-|D6P3|[Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)|[Java](./Day6/buildArray.java)|Easy|
-|D7P1|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./Day7/isValid.java)|Easy|
-|D7P2|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[C++](./Day7/assignCookies.cpp)|Easy|
-|D7P3|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Java](./Day7/topKFrequent.java)|Easy|
+|D6P1|[Range sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Java](./Day6/rangeSumBST.java)<br>[Python](./Day6/rangeSumOfBst.py)|Easy|
+|D6P2|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C++ (2 Pointers)](./Day6/linkedListCycle_two_pointers.cpp)<br>[C++ (Set)](./Day6/linkedListCycle_set.cpp)<br>[Python](./Day6/linkedListCycle.py)|Easy|
+|D6P3|[Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)|[Java](./Day6/buildArray.java)<br>[Python](./Day6/buildAnArrayWithStackOperations.py)|Easy|
+|D7P1|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./Day7/isValid.java)<br>[Python](./Day7/validParanthesis.py)|Easy|
+|D7P2|[Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[C++](./Day7/assignCookies.cpp)<br>[Python](./Day7/assignCookies.py)|Easy|
+|D7P3|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Java](./Day7/topKFrequent.java)<br>[Python](./Day7/topKWords.py)|Easy|
 |D8P1|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)|[Java](./Day8/numMatchingSubseq.java)|Medium|
 |D8P2|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[C++](./Day8/uniquePaths.cpp)|Medium|
 |D8P3|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[Java](./Day8/longestUnivaluePath.java)|Easy|
